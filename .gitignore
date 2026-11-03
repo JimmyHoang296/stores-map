@@ -1,0 +1,7 @@
+# Chi push file ban do (index.html) va README len GitHub.
+# Du lieu tho, script cap nhat va file lam viec noi bo deu giu o local.
+*
+
+!index.html
+!README.md
+!.gitignore
